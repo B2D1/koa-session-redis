@@ -1,0 +1,26 @@
+{
+  "name": "koa-session-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B2D1/koa-session-redis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B2D1/koa-session-redis/issues"
+  },
+  "homepage": "https://github.com/B2D1/koa-session-redis#readme",
+  "dependencies": {
+    "ioredis": "^4.14.0",
+    "koa": "^2.8.1",
+    "koa-session": "^5.12.2",
+    "shortid": "^2.2.14"
+  }
+}
